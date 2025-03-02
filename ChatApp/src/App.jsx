@@ -83,7 +83,7 @@ function App() {
           <Row className="mb-5 text-center">
             <Col>
               <h1 className="display-4 text-primary">
-                Real-Time Chat with SignalR
+                Real-Time Chat 
               </h1>
             </Col>
           </Row>
